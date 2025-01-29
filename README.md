@@ -1,4 +1,4 @@
-# Simple Login System (Java Swing)  
+# Simple Login System 
 
 A login system built with Java Swing, utilizing `.properties` files for user data storage.  
 
